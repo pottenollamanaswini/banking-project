@@ -16,4 +16,4 @@
 6. Display Accounts -> Balance Enq
 7. Account Close
 8. Account Creation (name, number(auto), password, branch, mobile number, ADHAR number).
-9. 
+9. Understanding of each funnction
